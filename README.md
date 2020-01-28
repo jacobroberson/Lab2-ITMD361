@@ -1,0 +1,1 @@
+This is a basic website that displays part of the class syllabus using proper formatting
